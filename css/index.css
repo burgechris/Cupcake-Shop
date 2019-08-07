@@ -1,0 +1,15 @@
+
+
+body {
+  background-color: purple;
+}
+
+.flashy {
+  color: turquoise;
+  font-style: italic;
+  text-align: center;
+}
+
+li.best {
+  color: #b7b72e;
+}
